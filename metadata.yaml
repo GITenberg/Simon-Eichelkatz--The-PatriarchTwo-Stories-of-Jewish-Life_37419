@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '38831'
     url: http://www.gutenberg.org/2009/agents/38831
 description: Translated from the German.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37419#Simon-Eichelkatz--The-PatriarchTwo-Stories-of-Jewish-Life
 gutenberg_issued: '2011-09-13'
 gutenberg_type: Text
 identifiers:
